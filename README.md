@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar Maurya</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud & Container Enthusiast | Lifelong Learner</h3>
+<h1 align="center">
+  Hi 👋, I'm Amit Kumar Maurya  
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Container+Enthusiast;Lifelong+Learner;Always+Exploring+%7C+Always+Building+%7C+Always+Learning" alt="Typing Animation" />
+  </a>
+</p>
 
 ---
 
