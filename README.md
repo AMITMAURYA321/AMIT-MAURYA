@@ -32,8 +32,8 @@ I believe in continuous learning and building efficient, secure, and reliable sy
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/amit-maurya-a9217b382)  
-- ✉️ Email: **yourname@email.com**  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/amit-maurya-a9217b382](https://www.linkedin.com/in/amitmaurya-devops/))  
+- ✉️ Email: **amitmaurya8192@gmail.com**  
 - 📄 Portfolio/Blog: *Coming Soon*  
 
 ---
