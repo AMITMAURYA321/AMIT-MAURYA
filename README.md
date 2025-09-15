@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Tech Stack (3D Icons)
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,ansible,terraform,prometheus,grafana,git&theme=light" />
